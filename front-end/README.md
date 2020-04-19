@@ -1,12 +1,12 @@
 # Ring of Fire
 
-![Ring of fire screenshot](./../public/Screenshot%202020-04-19%20at%2020.01.58.png)
+![Ring of fire screenshot](/public/Screenshot%202020-04-19%20at%2020.01.58.png)
 
 ### Tasked with creating a game for people to play during the coronavirus lockdown, myself and my teammate Murray decided to build an online version of the much loved, classic drinking game, Ring of Fire! We used React to build this application and it is hosted with Netlify.
 
 ## **[Click here for the live site hosted on Netlify](https://ringoffire.netlify.app/)**
 
-![Gif demo of the game](./../public/demorof.gif)
+![Gif demo of the game](/public/demorof.gif)
 
 ## How to play
 
